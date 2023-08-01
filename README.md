@@ -1,2 +1,2 @@
 # games-shop
-Projeto do Curso de TI da Ebac
+idea de site de games
